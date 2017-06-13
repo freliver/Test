@@ -19,11 +19,7 @@ int main(){
 
 	return 0;
 }
-/*
-int swap(int vetor[], int i, int j){
 
-}
-*/
 
 int vetor_imprime(int vetor[], int tamanho){
     int i;
